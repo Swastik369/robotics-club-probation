@@ -1,0 +1,14 @@
+Domain Introduction: Electronics
+
+About Me
+
+**Jai Hind**, I am Swastik Singh , a 2nd-year ECE. I am currently participating in the Robotics Club probation program to strengthen my development and collaboration skills.
+
+Technical Skills & Focus Areas
+- Languages: C, C++
+- Tools & Platforms:** Git, GitHub, VS Code, Linux, SolidWorks, Aurduino IDE, KiCAD.
+- Interests:, Android Development,LLM, Robotics and automation systems.
+
+## Goals in Robotics Club
+- Learn collaborative version control workflows (branching, code reviews, PRs) for real-world robotics software and hardware stacks.
+- Work closely with hardware, mechanical, and simulation sub-teams to deploy integrated robotics projects.
